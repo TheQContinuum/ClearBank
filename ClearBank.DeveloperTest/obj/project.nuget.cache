@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "t9whpIdbmdpFDsjVA0MM41oCjdmzF+jYa8XtAPA+SnOmMjvn3FwemuLtDfPSyhhPiaiOCg0BotvfzKgUQpnv+A==",
+  "success": true,
+  "projectFilePath": "\\\\Mac\\Home\\Documents\\Visual Studio 2022\\clearbank_developer_test 2022\\Cleaned\\ClearBank.DeveloperTest\\ClearBank.DeveloperTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\julianobrien\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\julianobrien\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\julianobrien\\.nuget\\packages\\system.configuration.configurationmanager\\4.7.0\\system.configuration.configurationmanager.4.7.0.nupkg.sha512",
+    "C:\\Users\\julianobrien\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
+    "C:\\Users\\julianobrien\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\julianobrien\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.7.0\\system.security.cryptography.protecteddata.4.7.0.nupkg.sha512",
+    "C:\\Users\\julianobrien\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
+    "C:\\Users\\julianobrien\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
+    "C:\\Users\\julianobrien\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
